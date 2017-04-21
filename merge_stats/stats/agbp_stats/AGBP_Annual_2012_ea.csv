@@ -1,0 +1,26 @@
+fid,gaul_code,iso3,mean,name,region,subregion,min,max,sum,year,gee_asset
+265,270,ZMB,13437.9185166,Zambia,Africa,Eastern Africa,0.0,31194.703125,1.69228451465e+11,2012,AGBP_Annual
+266,271,ZWE,8890.59533909,Zimbabwe,Africa,Eastern Africa,0.0,30901.9316406,59831208374.8,2012,AGBP_Annual
+147,150,MDG,10997.0440765,Madagascar,Africa,Eastern Africa,0.0,35893.234375,1.11670561785e+11,2012,AGBP_Annual
+149,152,MWI,10028.7147376,Malawi,Africa,Eastern Africa,0.0,32192.96875,19938408688.8,2012,AGBP_Annual
+157,160,MUS,13075.1661222,Mauritius,Africa,Eastern Africa,0.0,29297.2441406,437142028.964,2012,AGBP_Annual
+25,25,,,Bassas da India,Africa,Eastern Africa,,,0.0,2012,AGBP_Annual
+158,161,MYT,,Mayotte,Africa,Eastern Africa,,,0.0,2012,AGBP_Annual
+167,170,MOZ,11650.4158205,Mozambique,Africa,Eastern Africa,0.0,33537.8242188,1.56587600241e+11,2012,AGBP_Annual
+38,38,IOT,,British Indian Ocean Territory,Africa,Eastern Africa,,,0.0,2012,AGBP_Annual
+43,43,BDI,15330.2308684,Burundi,Africa,Eastern Africa,0.0,32379.5195312,6725402942.42,2012,AGBP_Annual
+58,58,COM,19623.6700524,Comoros,Africa,Eastern Africa,0.0,34014.9375,499854123.574,2012,AGBP_Annual
+70,70,DJI,60.2718249997,Djibouti,Africa,Eastern Africa,0.0,8029.73730469,21652412.0438,2012,AGBP_Annual
+202,205,RWA,14988.4220655,Rwanda,Africa,Eastern Africa,0.0,35328.1679688,6208174442.68,2012,AGBP_Annual
+203,206,REU,,RA(c)union,Africa,Eastern Africa,,,0.0,2012,AGBP_Annual
+77,77,ERI,1157.5392495,Eritrea,Africa,Eastern Africa,0.0,15549.1796875,2344339933.7,2012,AGBP_Annual
+79,79,ETH,7628.48819708,Ethiopia,Africa,Eastern Africa,0.0,32678.0097656,1.42188688348e+11,2012,AGBP_Annual
+80,80,,,Europa Island,Africa,Eastern Africa,,,0.0,2012,AGBP_Annual
+216,220,SYC,9646.60084279,Seychelles,Africa,Eastern Africa,0.0,32504.078125,36782489.0135,2012,AGBP_Annual
+222,226,SOM,1892.58754817,Somalia,Africa,Eastern Africa,0.0,26506.8730469,19650785719.9,2012,AGBP_Annual
+96,96,,,Glorioso Island,Africa,Eastern Africa,,,0.0,2012,AGBP_Annual
+242,247,,,Tromelin Island,Africa,Eastern Africa,,,0.0,2012,AGBP_Annual
+248,253,UGA,14085.9975706,Uganda,Africa,Eastern Africa,0.0,36096.6367188,55495280756.8,2012,AGBP_Annual
+252,257,TZA,11568.2398752,United Republic of Tanzania,Africa,Eastern Africa,0.0,35293.8867188,1.78357445001e+11,2012,AGBP_Annual
+129,131,,,Juan de Nova Island,Africa,Eastern Africa,,,0.0,2012,AGBP_Annual
+131,133,KEN,6110.61460077,Kenya,Africa,Eastern Africa,0.0,36613.53125,58045546915.1,2012,AGBP_Annual

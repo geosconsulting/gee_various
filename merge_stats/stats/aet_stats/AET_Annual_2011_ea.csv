@@ -1,0 +1,26 @@
+fid,gaul_code,iso3,mean,name,region,subregion,min,max,sum,year,gee_asset
+265.0,270.0,ZMB,970.694422527,Zambia,Africa,Eastern Africa,175.699996948,2716.39990234,12224297518.0,2011,AET_Annual
+266.0,271.0,ZWE,806.31856309,Zimbabwe,Africa,Eastern Africa,96.3000030518,2756.5,5426297354.08,2011,AET_Annual
+147.0,150.0,MDG,686.279528843,Madagascar,Africa,Eastern Africa,0.0,4988.39990234,6970500683.97,2011,AET_Annual
+149.0,152.0,MWI,1006.12268049,Malawi,Africa,Eastern Africa,40.4000015259,2878.39990234,2000304697.01,2011,AET_Annual
+157.0,160.0,MUS,1130.40694247,Mauritius,Africa,Eastern Africa,78.8000030518,2542.89990234,37890110.3046,2011,AET_Annual
+25.0,25.0,,,Bassas da India,Africa,Eastern Africa,,,0.0,2011,AET_Annual
+158.0,161.0,MYT,,Mayotte,Africa,Eastern Africa,,,0.0,2011,AET_Annual
+167.0,170.0,MOZ,943.966518106,Mozambique,Africa,Eastern Africa,0.0,3802.89990234,12688031435.6,2011,AET_Annual
+38.0,38.0,IOT,,British Indian Ocean Territory,Africa,Eastern Africa,,,0.0,2011,AET_Annual
+43.0,43.0,BDI,966.07613215,Burundi,Africa,Eastern Africa,213.5,1963.30004883,423819531.327,2011,AET_Annual
+58.0,58.0,COM,1258.74720869,Comoros,Africa,Eastern Africa,43.9000015259,2548.0,32262949.706,2011,AET_Annual
+70.0,70.0,DJI,296.822379763,Djibouti,Africa,Eastern Africa,0.0,3454.19995117,106843886.997,2011,AET_Annual
+202.0,205.0,RWA,871.455445418,Rwanda,Africa,Eastern Africa,7.90000009537,1904.09997559,360955102.581,2011,AET_Annual
+203.0,206.0,REU,,RA(c)union,Africa,Eastern Africa,,,0.0,2011,AET_Annual
+77.0,77.0,ERI,363.437294837,Eritrea,Africa,Eastern Africa,0.0,3770.5,736298155.292,2011,AET_Annual
+79.0,79.0,ETH,711.077803062,Ethiopia,Africa,Eastern Africa,8.10000038147,3223.0,13253901476.6,2011,AET_Annual
+80.0,80.0,,,Europa Island,Africa,Eastern Africa,,,0.0,2011,AET_Annual
+216.0,220.0,SYC,1585.7702865,Seychelles,Africa,Eastern Africa,0.0,2430.10009766,6116315.99504,2011,AET_Annual
+222.0,226.0,SOM,413.093734869,Somalia,Africa,Eastern Africa,0.0,4571.60009766,4289298071.24,2011,AET_Annual
+96.0,96.0,,,Glorioso Island,Africa,Eastern Africa,,,0.0,2011,AET_Annual
+242.0,247.0,,,Tromelin Island,Africa,Eastern Africa,,,0.0,2011,AET_Annual
+248.0,253.0,UGA,1249.51422226,Uganda,Africa,Eastern Africa,21.0,2499.10009766,4922823637.71,2011,AET_Annual
+252.0,257.0,TZA,909.387553141,United Republic of Tanzania,Africa,Eastern Africa,0.0,3019.19995117,14021311052.6,2011,AET_Annual
+129.0,131.0,,,Juan de Nova Island,Africa,Eastern Africa,,,0.0,2011,AET_Annual
+131.0,133.0,KEN,658.906187984,Kenya,Africa,Eastern Africa,0.0,3974.10009766,6259056622.47,2011,AET_Annual

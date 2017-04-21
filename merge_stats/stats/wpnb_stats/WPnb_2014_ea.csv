@@ -1,0 +1,26 @@
+fid,gaul_code,iso3,mean,name,region,subregion,min,max,sum,year,gee_asset
+265,270,ZMB,2.29223514421,Zambia,Africa,Eastern Africa,0.0,10.4615268707,28356262.1846,2014,WPnb
+266,271,ZWE,2.1244276888,Zimbabwe,Africa,Eastern Africa,0.0,12.3929109573,14129500.5765,2014,WPnb
+147,150,MDG,2.34378262814,Madagascar,Africa,Eastern Africa,0.0,22.018945694,23437910.6576,2014,WPnb
+149,152,MWI,2.81526996183,Malawi,Africa,Eastern Africa,0.0,14.9957532883,4455054.91907,2014,WPnb
+157,160,MUS,1.72016289484,Mauritius,Africa,Eastern Africa,0.0,9.73135375977,53483.3047262,2014,WPnb
+25,25,,,Bassas da India,Africa,Eastern Africa,,,0.0,2014,WPnb
+158,161,MYT,,Mayotte,Africa,Eastern Africa,,,0.0,2014,WPnb
+167,170,MOZ,1.82723626941,Mozambique,Africa,Eastern Africa,0.0,13.888258934,24132539.6419,2014,WPnb
+38,38,IOT,,British Indian Ocean Territory,Africa,Eastern Africa,,,0.0,2014,WPnb
+43,43,BDI,2.7613972632,Burundi,Africa,Eastern Africa,0.0,8.79595184326,1121671.28412,2014,WPnb
+58,58,COM,2.23516255314,Comoros,Africa,Eastern Africa,0.0,16.8902683258,54622.9024737,2014,WPnb
+70,70,DJI,0.284207583332,Djibouti,Africa,Eastern Africa,0.0,5.79334259033,2665.58292407,2014,WPnb
+202,205,RWA,2.71242528424,Rwanda,Africa,Eastern Africa,0.0,13.0737762451,1051319.76562,2014,WPnb
+203,206,REU,,RA(c)union,Africa,Eastern Africa,,,0.0,2014,WPnb
+77,77,ERI,1.45028639883,Eritrea,Africa,Eastern Africa,0.0,5.73165893555,1049847.82125,2014,WPnb
+79,79,ETH,1.81398297008,Ethiopia,Africa,Eastern Africa,0.0,13.767829895,28588868.6398,2014,WPnb
+80,80,,,Europa Island,Africa,Eastern Africa,,,0.0,2014,WPnb
+216,220,SYC,2.09647053546,Seychelles,Africa,Eastern Africa,0.0,11.7770996094,3421.43991387,2014,WPnb
+222,226,SOM,0.698024087869,Somalia,Africa,Eastern Africa,0.0,10.9587163925,3910596.88742,2014,WPnb
+96,96,,,Glorioso Island,Africa,Eastern Africa,,,0.0,2014,WPnb
+242,247,,,Tromelin Island,Africa,Eastern Africa,,,0.0,2014,WPnb
+248,253,UGA,2.02753949007,Uganda,Africa,Eastern Africa,0.0,15.0936555862,6741615.43788,2014,WPnb
+252,257,TZA,2.15433438485,United Republic of Tanzania,Africa,Eastern Africa,0.0,21.6841125488,30855622.2651,2014,WPnb
+129,131,,,Juan de Nova Island,Africa,Eastern Africa,,,0.0,2014,WPnb
+131,133,KEN,1.28796731853,Kenya,Africa,Eastern Africa,0.0,13.7606668472,10464297.8421,2014,WPnb

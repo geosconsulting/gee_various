@@ -1,0 +1,26 @@
+fid,gaul_code,iso3,mean,name,region,subregion,min,max,sum,year,gee_asset
+265,270.0,ZMB,864.708880485,Zambia,Africa,Eastern Africa,87.1999969482,2810.80004883,10889584174.2,2016,AET_Annual
+266,271.0,ZWE,732.01754378,Zimbabwe,Africa,Eastern Africa,86.5999984741,2731.30004883,4926272372.71,2016,AET_Annual
+147,150.0,MDG,670.143368969,Madagascar,Africa,Eastern Africa,0.0,5188.39990234,6806606660.16,2016,AET_Annual
+149,152.0,MWI,969.377100886,Malawi,Africa,Eastern Africa,48.2000007629,2682.89990234,1927249634.34,2016,AET_Annual
+157,160.0,MUS,1136.70213301,Mauritius,Africa,Eastern Africa,151.600006104,2690.80004883,38101118.7964,2016,AET_Annual
+25,25.0,,,Bassas da India,Africa,Eastern Africa,,,0.0,2016,AET_Annual
+158,161.0,MYT,,Mayotte,Africa,Eastern Africa,,,0.0,2016,AET_Annual
+167,170.0,MOZ,947.259171988,Mozambique,Africa,Eastern Africa,0.0,3901.0,12732288615.4,2016,AET_Annual
+38,38.0,IOT,,British Indian Ocean Territory,Africa,Eastern Africa,,,0.0,2016,AET_Annual
+43,43.0,BDI,823.051875761,Burundi,Africa,Eastern Africa,205.5,2062.30004883,361074504.0,2016,AET_Annual
+58,58.0,COM,1168.92671762,Comoros,Africa,Eastern Africa,18.6000003815,2500.0,29960760.6992,2016,AET_Annual
+70,70.0,DJI,291.806957168,Djibouti,Africa,Eastern Africa,0.0,3383.10009766,105038540.495,2016,AET_Annual
+202,205.0,RWA,821.642361728,Rwanda,Africa,Eastern Africa,1.10000002384,1973.90002441,340322622.943,2016,AET_Annual
+203,206.0,REU,,RA(c)union,Africa,Eastern Africa,,,0.0,2016,AET_Annual
+77,77.0,ERI,351.169046359,Eritrea,Africa,Eastern Africa,0.0,3794.19995117,711443554.921,2016,AET_Annual
+79,79.0,ETH,674.161718248,Ethiopia,Africa,Eastern Africa,12.3999996185,3294.60009766,12565816222.2,2016,AET_Annual
+80,80.0,,,Europa Island,Africa,Eastern Africa,,,0.0,2016,AET_Annual
+216,220.0,SYC,1670.32053347,Seychelles,Africa,Eastern Africa,0.0,2322.60009766,6442426.29761,2016,AET_Annual
+222,226.0,SOM,439.894986427,Somalia,Africa,Eastern Africa,0.0,4301.29980469,4567584927.0,2016,AET_Annual
+96,96.0,,,Glorioso Island,Africa,Eastern Africa,,,0.0,2016,AET_Annual
+242,247.0,,,Tromelin Island,Africa,Eastern Africa,,,0.0,2016,AET_Annual
+248,253.0,UGA,1199.87510505,Uganda,Africa,Eastern Africa,0.0,2506.10009766,4727255940.13,2016,AET_Annual
+252,257.0,TZA,845.011579528,United Republic of Tanzania,Africa,Eastern Africa,0.0,3434.69995117,13028735832.9,2016,AET_Annual
+129,131.0,,,Juan de Nova Island,Africa,Eastern Africa,,,0.0,2016,AET_Annual
+131,133.0,KEN,681.470453746,Kenya,Africa,Eastern Africa,0.0,4475.70019531,6473398238.34,2016,AET_Annual

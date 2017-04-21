@@ -1,0 +1,3 @@
+fid,gaul_code,iso3,mean,name,region,subregion,min,max,sum,year,gee_asset
+151,154,MDV,,Maldives,Asia,Southern Asia,,,0.0,2010,T_Annual
+117,117,IRN,66.4399179202,Iran (Islamic Republic of),Asia,Southern Asia,0.0,6049.46582031,2079412499.82,2010,T_Annual

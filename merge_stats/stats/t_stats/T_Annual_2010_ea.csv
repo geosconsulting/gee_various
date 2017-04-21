@@ -1,0 +1,26 @@
+fid,gaul_code,iso3,mean,name,region,subregion,min,max,sum,year,gee_asset
+265,270,ZMB,673.01180436,Zambia,Africa,Eastern Africa,0.0,2366.44604492,8475475225.47,2010,T_Annual
+266,271,ZWE,620.163541017,Zimbabwe,Africa,Eastern Africa,0.0,2407.65893555,4173526365.09,2010,T_Annual
+147,150,MDG,469.979216599,Madagascar,Africa,Eastern Africa,0.0,2833.68701172,4773551174.22,2010,T_Annual
+149,152,MWI,443.360538076,Malawi,Africa,Eastern Africa,0.0,2533.90405273,881459273.287,2010,T_Annual
+157,160,MUS,814.745889255,Mauritius,Africa,Eastern Africa,0.0,1783.81799316,27309467.4619,2010,T_Annual
+25,25,,,Bassas da India,Africa,Eastern Africa,,,0.0,2010,T_Annual
+158,161,MYT,,Mayotte,Africa,Eastern Africa,,,0.0,2010,T_Annual
+167,170,MOZ,693.049157287,Mozambique,Africa,Eastern Africa,0.0,2662.97900391,9315404016.34,2010,T_Annual
+38,38,IOT,,British Indian Ocean Territory,Africa,Eastern Africa,,,0.0,2010,T_Annual
+43,43,BDI,617.715213228,Burundi,Africa,Eastern Africa,0.0,1889.6739502,270992899.474,2010,T_Annual
+58,58,COM,1041.72605889,Comoros,Africa,Eastern Africa,0.0,2106.21411133,26700480.6153,2010,T_Annual
+70,70,DJI,28.5840256979,Djibouti,Africa,Eastern Africa,0.0,2877.8269043,10289077.3062,2010,T_Annual
+202,205,RWA,586.228480933,Rwanda,Africa,Eastern Africa,0.0,1682.95898438,242814664.345,2010,T_Annual
+203,206,REU,,RA(c)union,Africa,Eastern Africa,,,0.0,2010,T_Annual
+77,77,ERI,108.688494328,Eritrea,Africa,Eastern Africa,0.0,2667.37109375,220195172.626,2010,T_Annual
+79,79,ETH,451.370419466,Ethiopia,Africa,Eastern Africa,0.0,2769.55395508,8413170884.14,2010,T_Annual
+80,80,,,Europa Island,Africa,Eastern Africa,,,0.0,2010,T_Annual
+216,220,SYC,459.854335796,Seychelles,Africa,Eastern Africa,0.0,1880.14196777,1773658.17316,2010,T_Annual
+222,226,SOM,229.153045819,Somalia,Africa,Eastern Africa,0.0,2697.91601562,2379376965.76,2010,T_Annual
+96,96,,,Glorioso Island,Africa,Eastern Africa,,,0.0,2010,T_Annual
+242,247,,,Tromelin Island,Africa,Eastern Africa,,,0.0,2010,T_Annual
+248,253,UGA,822.479508298,Uganda,Africa,Eastern Africa,0.0,2308.54296875,3240396542.0,2010,T_Annual
+252,257,TZA,613.30921042,United Republic of Tanzania,Africa,Eastern Africa,0.0,2363.27197266,9456253476.34,2010,T_Annual
+129,131,,,Juan de Nova Island,Africa,Eastern Africa,,,0.0,2010,T_Annual
+131,133,KEN,443.476005121,Kenya,Africa,Eastern Africa,0.0,3436.39306641,4212650415.76,2010,T_Annual

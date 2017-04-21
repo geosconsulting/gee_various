@@ -1,0 +1,6 @@
+fid,gaul_code,iso3,mean,name,region,subregion,min,max,sum,year,gee_asset
+140,142,LSO,1.96950923315,Lesotho,Africa,Southern Africa,0.0,7.43512773514,1120916.63741,2011,WPbm
+35,35,BWA,0.808398135636,Botswana,Africa,Southern Africa,0.0,2.19615721703,8220546.4786,2011,WPbm
+169,172,NAM,0.686415715026,Namibia,Africa,Southern Africa,0.0,4.02951860428,9949341.12907,2011,WPbm
+223,227,ZAF,1.08534689137,South Africa,Africa,Southern Africa,0.0,8.20132064819,24625852.3916,2011,WPbm
+230,235,SWZ,1.39433861444,Swaziland,Africa,Southern Africa,0.0,3.54530239105,438335.441543,2011,WPbm

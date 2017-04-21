@@ -1,0 +1,3 @@
+fid,gaul_code,iso3,mean,name,region,subregion,min,max,sum,year,gee_asset
+151,154,MDV,,Maldives,Asia,Southern Asia,,,0.0,2016,WPbm
+117,117,IRN,0.268553682137,Iran (Islamic Republic of),Asia,Southern Asia,0.0,24.5405788422,8390587.04585,2016,WPbm

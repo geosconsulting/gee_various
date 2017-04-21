@@ -1,0 +1,10 @@
+fid,gaul_code,iso3,mean,name,region,subregion,min,max,sum,year,gee_asset
+8,8.0,AGO,931.956648841,Angola,Africa,Middle Africa,0.0,3138.89990234,19399326287.4,2016,AET_Annual
+45,45.0,CMR,1040.86879397,Cameroon,Africa,Middle Africa,0.0,4008.60009766,7941319913.18,2016,AET_Annual
+49,49.0,CAF,1440.85995372,Central African Republic,Africa,Middle Africa,561.700012207,2334.39990234,14656094610.6,2016,AET_Annual
+50,50.0,TCD,574.01644556,Chad,Africa,Middle Africa,0.0,4412.70019531,12296295010.6,2016,AET_Annual
+59,59.0,COG,1024.45486551,Congo,Africa,Middle Africa,0.0,3291.30004883,5694400611.83,2016,AET_Annual
+68,68.0,COD,1176.64100052,Democratic Republic of the Congo,Africa,Middle Africa,0.0,2544.0,44868998352.9,2016,AET_Annual
+76,76.0,GNQ,838.532239817,Equatorial Guinea,Africa,Middle Africa,0.0,1981.5,368386499.193,2016,AET_Annual
+211,214.0,STP,852.842315035,Sao Tome and Principe,Africa,Middle Africa,0.0,1900.40002441,13128654.5976,2016,AET_Annual
+89,89.0,GAB,889.51505398,Gabon,Africa,Middle Africa,0.0,4243.70019531,3825730417.42,2016,AET_Annual
